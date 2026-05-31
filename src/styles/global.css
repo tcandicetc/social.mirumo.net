@@ -354,6 +354,8 @@ button {
 .post-text img {
   border-radius: 12px;
   margin: 8px 0;
+  max-width: 100%;
+  height: auto;
 }
 
 .post-text a {
